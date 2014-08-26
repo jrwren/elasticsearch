@@ -64,7 +64,7 @@ hook), after which ElasticSearch handles the rest.
 ## Downloading ElasticSearch
 
 This charm installs elasticsearch from a configured apt repository.
-By default, this is the 1.0 repository from elasticsearch.org, but
+By default, this is the 1.2 repository from elasticsearch.org, but
 you can configure your own internal repo if you don't want your
 deployment to be dependent on external resources.
 
